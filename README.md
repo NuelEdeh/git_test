@@ -1,4 +1,4 @@
 # git_test
 
 Learning repo from TOP
-Hello Odin! May the odd be in our favour.
+Hello Odin! May the odds be in our favour.
