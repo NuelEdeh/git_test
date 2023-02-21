@@ -1,0 +1,2 @@
+In this text file, we add some new changes to help learn the basics of git.
+Thanks very much.
